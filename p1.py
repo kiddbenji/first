@@ -1,2 +1,2 @@
 yoyo = 2
-yoyo
+yiyi = 6
