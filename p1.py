@@ -13,5 +13,5 @@ class Dog:
 buddy = Dog("buddy", 5)
 miles = Dog("miles", 6)
 
-buddy.speak('WOOF')
+
 
